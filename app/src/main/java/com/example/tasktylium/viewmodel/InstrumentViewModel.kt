@@ -71,7 +71,7 @@ class InstrumentViewModel:ViewModel() {
                 binding.textView.visibility=View.GONE
                 binding.layoutProgress.visibility=View.GONE
                 binding.layoutRecycle.visibility=View.VISIBLE
-                // Log.d("TAG",t.message.toString()+"Fail")
+
             }
         })
     }
