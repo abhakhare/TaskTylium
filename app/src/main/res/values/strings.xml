@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TaskTylium</string>
+    <string name="search">Search</string>
+    <string name="loading">loading.....</string>
+    <string name="details">Instruments Details</string>
+    <string name="instrument_name">Instrument Name</string>
+    <string name="instrument_symbol">Instrument Symbol</string>
+    <string name="assetclass">AssetClass</string>
+    <string name="priceincrement">Price Increment</string>
+    <string name="instrument_id">Instrument ID</string>
+    <string name="quantityincremen">Quantity Incremen</string>
+
+</resources>
