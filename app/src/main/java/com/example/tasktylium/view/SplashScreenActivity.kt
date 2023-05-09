@@ -19,7 +19,7 @@ class SplashScreenActivity :AppCompatActivity() {
         binding = ActivitySplashscreenBinding.inflate(layoutInflater)
         setContentView(binding.root)
         lifecycleScope.launch {
-            delay(3000)
+            delay(1000)
             val intent= Intent(applicationContext,MainActivity::class.java)
             startActivity(intent)
         }
